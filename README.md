@@ -2,9 +2,7 @@
 
 _ShareTech Memory_ est un projet de validation du titre de CDA pour l’IBM Academy Loire Atlantique promotion 2024-2026.
 
-Il s’agit d’une application permettant la gestion de notes et l’echange entre des employés d’une entreprise fictive
-
-_ShareTech Memory_ est un outil de gestion de notes et d’échanges entre développeur de l’entreprise Memory.
+Il s’agit d’un outil permettant la gestion de notes et l’echange entre des employés d’une entreprise fictive
 
 Fonctionnalités clés :
 
